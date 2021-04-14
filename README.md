@@ -1,2 +1,3 @@
 # I Can GRID too...
 Ce que je peux faire avec la techno GRID CSS.
+Un simple LAYOUT responsive adaptable sur tous les devices.
